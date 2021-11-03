@@ -23,9 +23,10 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
+    "clean-webpack-plugin": "^4.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.12",
     "webpack-dev-server": "^4.4.0"
   },
-	"browserslist": "> 0.25%, not dead"
+  "browserslist": "> 0.25%, not dead"
 }
